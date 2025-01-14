@@ -6,4 +6,5 @@ Tasks performed include:
 - Removing duplicate records to ensure data integrity.
 - Replacing values to standardize the dataset.
 - Handling missing and null values effectively.
+  
 This project highlights the importance of clean data for accurate analysis and insights.
